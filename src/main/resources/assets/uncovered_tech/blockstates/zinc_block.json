@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "uncovered_tech:block/zinc_block"
+    }
+  }
+}

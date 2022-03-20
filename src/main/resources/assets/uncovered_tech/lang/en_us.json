@@ -1,0 +1,13 @@
+{
+  "item.uncovered_tech.aluminium_ingot": "Aluminium Ingot",
+  "item.uncovered_tech.tin_ingot": "Tin Ingot",
+  "item.uncovered_tech.zinc_ingot": "Zinc Ingot",
+  "item.uncovered_tech.lead_ingot": "Lead Ingot",
+  "item.uncovered_tech.nickel_ingot": "Nickel Ingot",
+
+  "block.uncovered_tech.aluminium_block": "Aluminium Block",
+  "block.uncovered_tech.tin_block": "Tin Block",
+  "block.uncovered_tech.lead_block": "Lead Block",
+  "block.uncovered_tech.zinc_block": "Zinc Block",
+  "block.uncovered_tech.nickel_block": "Nickel Block"
+}
